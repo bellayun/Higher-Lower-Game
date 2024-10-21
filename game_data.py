@@ -1,5 +1,3 @@
-# Higher Lower
-# Higher followers or lower followers?
 
 data = [
     {
@@ -57,5 +55,3 @@ data = [
         'country' : 'England'
     },
 ]
-
-# Generate a random aacount from the agme data.
